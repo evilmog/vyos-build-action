@@ -1,5 +1,8 @@
 # VyOS ISO Automation Build
 
+Evilmog fork to make LTS :P
+-----
+
 Automate build VyOS v1.2 LTS, v1.3 LTS Release and v1.4 Rolling Release ISO files.
 
 ## About this repository
