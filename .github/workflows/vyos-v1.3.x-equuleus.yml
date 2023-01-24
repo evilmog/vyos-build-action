@@ -5,6 +5,9 @@ on:
     tags:
       - 'v1.3.*'
 
+runs:
+  using: 'node16'
+
 env:
   GIT_CLONE_URL: https://github.com/vyos/vyos-build
   DEBIAN_MIRROR: http://ftp.us.debian.org/debian/
