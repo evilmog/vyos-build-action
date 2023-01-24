@@ -1,7 +1,7 @@
 name: VyOS v1.3.x LTS Release
 
-on:
-  push:
+on: 
+  workflow_dispatch:
     tags:
       - 'v1.3.*'
 
